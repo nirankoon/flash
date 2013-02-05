@@ -1,4 +1,4 @@
-flash animation with Milion Thank You
+flash ອານິເມຊັນ
 =====
 
 ຕົວຢ່າງການສ້າງການເຄືອນໄຫວອານິເມຊັນແລະສຽງດ້ວຍໂປຣແກຣມ Adobe Flash CS3
